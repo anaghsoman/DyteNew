@@ -13,14 +13,7 @@ License
 None
 
 Folder Structure:-
-Main(Server)
-	|
-	|
-	|
-	Client(FrontEnd)
-	|
-	|
-	|
-	Login/Register
-	|
-	Fully functional API request handler
+1. Main(Server)
+	1.1 Client(FrontEnd)
+	1.2 Login/Register
+	1.3 Fully functional API request handler
