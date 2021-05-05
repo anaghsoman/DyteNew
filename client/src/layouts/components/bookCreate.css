@@ -1,0 +1,9 @@
+
+.form-row{
+    display: flex;
+    height: 30px;
+}
+
+.spacing{
+    size: 100px;
+}
