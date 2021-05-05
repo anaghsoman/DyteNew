@@ -17,12 +17,10 @@ Main(Server)
 	|
 	|
 	|
-	Client(FrontEnd)----------------------------------------
-	|							|
-	|							|
-	|							|
-	Login/Register----------------------------------	|
-	|						|	|
-	|						|	|
-	|						|	|
-	Fully functional API request handler-------Integration(next step----------
+	Client(FrontEnd)
+	|
+	|
+	|
+	Login/Register
+	|
+	Fully functional API request handler
